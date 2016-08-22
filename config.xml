@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<config>
+	<option key = "tab_size" value = "4"/>
+	<option key = "font_point_size" value = "14"/>
+	<option key = "font_face_name" value = "Consolas"/>
+</config>
